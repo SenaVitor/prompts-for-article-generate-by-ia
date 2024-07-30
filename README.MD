@@ -30,7 +30,16 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Phaser 3                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech game-development e escreva o Artigo atendendo as regras abaixo {REGRAS} >No máximo 5 linhas por bloco de explicação >Me explique de maneira informal, como se eu fosse uma criança de 10 anos >Os blocos que serão criados estão abaixo: - O que é o Phaser 3 - Como instalar o Phaser 3 - Como desenvolver um projeto pequeno com o Phaser 3, com exemplos de códigos. - Faça um call to action para as minhas redes sociais - Coloque 3 hashtags que façam sentido |
+| conteúdo | Comporte-se como um escritor de artigos tech game-development e escreva o Artigo atendendo as regras abaixo 
+{REGRAS} 
+>No máximo 5 linhas por bloco de explicação 
+>Me explique de maneira informal, como se eu fosse uma criança de 10 anos 
+>Os blocos que serão criados estão abaixo: 
+- O que é o Phaser 3 
+- Como instalar o Phaser 3 
+- Como desenvolver um projeto pequeno com o Phaser 3, com exemplos de códigos. 
+- Faça um call to action para as minhas redes sociais 
+- Coloque 3 hashtags que façam sentido |
 
 
 Microsoft Copilot：
